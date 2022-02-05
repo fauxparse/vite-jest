@@ -1,0 +1,57 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 7,
+    "total": 8,
+    "workspacePrefix": "/Users/matt/code/vite-jest"
+  },
+  "1 debug pnpm:update-check": {
+    "currentVersion": "6.11.0",
+    "latestVersion": "6.29.1"
+  },
+  "2 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 1: pnpm run test:unit",
+      "stack": "Error: Command failed with exit code 1: pnpm run test:unit\n    at makeError (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48408:17)\n    at handlePromise (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48979:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:121790:13"
+    }
+  },
+  "3 error pnpm": {
+    "shortMessage": "Command failed with exit code 1: pnpm run test:unit",
+    "command": "pnpm run test:unit",
+    "escapedCommand": "pnpm run \"test:unit\"",
+    "exitCode": 1,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "/Users/matt/code/vite-jest/examples/vue-app-type-commonjs",
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 1: pnpm run test:unit",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: Command failed with exit code 1: pnpm run test:unit\n    at makeError (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48408:17)\n    at handlePromise (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48979:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:121790:13"
+    }
+  },
+  "4 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 1: pnpm run test:unit",
+      "stack": "Error: Command failed with exit code 1: pnpm run test:unit\n    at makeError (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48408:17)\n    at handlePromise (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48979:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:121790:13"
+    }
+  },
+  "5 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 1: pnpm run test:unit",
+      "stack": "Error: Command failed with exit code 1: pnpm run test:unit\n    at makeError (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48408:17)\n    at handlePromise (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48979:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:121790:13"
+    }
+  },
+  "6 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 1: pnpm run test:unit",
+      "stack": "Error: Command failed with exit code 1: pnpm run test:unit\n    at makeError (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48408:17)\n    at handlePromise (/Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:48979:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async /Users/matt/.node/corepack/pnpm/6.11.0/dist/pnpm.cjs:121790:13"
+    }
+  }
+}
